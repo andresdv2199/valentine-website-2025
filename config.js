@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Click aqui por favor ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Te gustaria salir hoy 13 de febrero, 2025? 🌹", // The big question!
+            text: "Te gustaria salir hoy 13 de febrero, 2026? 🌹", // The big question!
             yesBtn: "Siiii!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
